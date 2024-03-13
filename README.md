@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1337airkicker
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on hacking google
+- 📫 BRRRRRRRRRRRRRRT
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cars.
 
